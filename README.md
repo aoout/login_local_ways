@@ -10,3 +10,5 @@
 [login_numpy.py](https://github.com/aoout/login_local_ways/blob/master/login_numpy.py)
 ## 通过csv
 [login_csv.py](https://github.com/aoout/login_local_ways/blob/master/login_csv.py)
+## 通过pickle
+[login_pickle.py](https://github.com/aoout/login_local_ways/blob/master/login_pickle.py)
