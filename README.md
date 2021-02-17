@@ -8,5 +8,5 @@
 [login_json.py](https://github.com/aoout/login_local_ways/blob/master/login_json.py)
 ## 通过numpy
 [login_numpy.py](https://github.com/aoout/login_local_ways/blob/master/login_numpy.py)
-## 通过pandas
-[login_pandas.py](https://github.com/aoout/login_local_ways/blob/master/login_pandas.py)
+## 通过csv
+[login_csv.py](https://github.com/aoout/login_local_ways/blob/master/login_csv.py)
